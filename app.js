@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyDP0MQ7LKMqky6v-uHuWgjqxrRqcBnEswU",
+  authDomain: "hudda-57b79.firebaseapp.com",
+  databaseURL: "https://hudda-57b79.firebaseio.com",
+  projectId: "hudda-57b79",
+  storageBucket: "hudda-57b79.appspot.com",
+  messagingSenderId: "676229339624",
+  appId: "1:676229339624:web:2b598479ff92557338ac5d",
+  measurementId: "G-W5K774694L"
 };
 
      
